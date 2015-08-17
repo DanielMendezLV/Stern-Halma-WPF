@@ -1,0 +1,47 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="MainWindow"
+    Title="MainWindow" Height="693.989" Width="816.768" WindowStartupLocation="CenterScreen" AllowsTransparency="False" WindowStyle="None">
+    <Grid x:Name="grid" Margin="0,0,0,33">
+        
+        <Canvas x:Name="Board" Width="823.783" Canvas.Left="0" Canvas.Top="6" >
+            
+            <Rectangle x:Name="Rectangulo" Width="824" Height="688" Canvas.Top="0" Canvas.Bottom="4" Fill="Black"/>
+            <Ellipse x:Name="EllipsePrincipal" Width="626" Height="612" Canvas.Left="110" Canvas.Top="35">
+                <Ellipse.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="0"/>
+                        <GradientStop Color="#FF697EFF" Offset="1"/>
+                    </LinearGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+            <Button x:Name="btnResetear" Content="Reset" Canvas.Left="665" Canvas.Top="35" Width="114" Height="41"/>
+            <Button x:Name="btnModoJuego" Content="Modo" Canvas.Left="665" Canvas.Top="81" Width="114" Height="41"></Button>
+            <Button x:Name="BtnClose" Canvas.Left="753" Width="31" Height="26" ScrollViewer.HorizontalScrollBarVisibility="Auto" RenderTransformOrigin="0.666,0.931" BorderBrush="transparent">
+                <Button.Background>
+                    <ImageBrush ImageSource="WindowIcon/close minimalist.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="BtnMinimalist" Canvas.Left="689"  Width="32" Height="26" MouseEnter="MouserEnter" MouseLeave="MouserLeaver" BorderBrush="Transparent"  RenderTransformOrigin="1.185,0.577">
+                <Button.Background>
+                    <ImageBrush ImageSource="WindowIcon/minimize_window-.png"/>
+                </Button.Background>
+            </Button>
+
+        
+            <Rectangle x:Name="rctIndicador1" Width="25" Height="688" Canvas.Left="784" Canvas.Top="0" Canvas.Bottom="4" Fill="Green"/>
+            <Rectangle x:Name="rctIndicador2" Width="25" Height="688" Canvas.Top="0" Canvas.Bottom="4" Fill="Brown"/>
+            <Rectangle x:Name="rctIndicador3" Width="684" Height="26" Canvas.Top="0" Canvas.Bottom="4" Fill="Yellow"/>
+            <Rectangle x:Name="rctIndicador4" Width="814" Height="26" Canvas.Top="662" Canvas.Bottom="4" Fill="Blue"/>
+            <Label x:Name="lblColor" Content="Color:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="178" Canvas.Left="42" Canvas.Top="605" Height="42" FontSize="20" Foreground="White"/>
+            <Label x:Name="lblJugador" Content="Jugador:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="178" FontSize="20" Foreground="white" Canvas.Left="42" Canvas.Top="568"/>
+            <Button x:Name="Btn_Maximized" Canvas.Left="721" Width="32" Height="26" ScrollViewer.HorizontalScrollBarVisibility="Auto" BorderBrush="Transparent" RenderTransformOrigin="1.185,0.577">
+                <Button.Background>
+                    <ImageBrush ImageSource="WindowIcon/maximize.png"/>
+                </Button.Background>
+            </Button>
+            <Label x:Name="lblMoves" Content="Moves:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="178" FontSize="20" Foreground="white" Canvas.Left="601" Canvas.Top="610" RenderTransformOrigin="0.795,1.351"/>
+        </Canvas>
+    </Grid>
+</Window>

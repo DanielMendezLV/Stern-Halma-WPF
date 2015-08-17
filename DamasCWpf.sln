@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DamasChinas", "DamasCWpf\DamasChinas.vbproj", "{4225CBF4-4C7C-4DBC-868D-61757CFCF2E0}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "DiagramaUml", "DiagramaUml\DiagramaUml.modelproj", "{289E7C6D-CF40-40EF-98D6-B0A1CB67621D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4225CBF4-4C7C-4DBC-868D-61757CFCF2E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4225CBF4-4C7C-4DBC-868D-61757CFCF2E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4225CBF4-4C7C-4DBC-868D-61757CFCF2E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4225CBF4-4C7C-4DBC-868D-61757CFCF2E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289E7C6D-CF40-40EF-98D6-B0A1CB67621D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289E7C6D-CF40-40EF-98D6-B0A1CB67621D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289E7C6D-CF40-40EF-98D6-B0A1CB67621D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289E7C6D-CF40-40EF-98D6-B0A1CB67621D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

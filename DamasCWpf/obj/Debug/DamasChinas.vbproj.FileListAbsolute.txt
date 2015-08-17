@@ -1,0 +1,60 @@
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.exe.config
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.exe
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.pdb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.xml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\IngresoUsuariosWPF.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\MainWindow.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\WhatDo.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\IngresoUsuariosWPF.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\MainWindow.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\WhatDo.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Application.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf_MarkupCompile.cache
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.g.resources
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.Resources.resources
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasChinas.vbproj.GenerateResource.Cache
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.exe
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.xml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.pdb
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.exe.config
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.exe
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.xml
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.pdb
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.exe
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.pdb
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.xml
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.baml
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.baml
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.baml
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.baml
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.baml
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.baml
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\IngresoUsuariosWPF.baml
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\MainWindow.baml
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\WhatDo.baml
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.g.vb
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.g.vb
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.g.vb
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.g.vb
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.g.vb
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.g.vb
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\IngresoUsuariosWPF.g.vb
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\MainWindow.g.vb
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\WhatDo.g.vb
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Application.g.vb
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf_MarkupCompile.cache
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.g.resources
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.Resources.resources
+C:\Users\mendez\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasChinas.vbproj.GenerateResource.Cache

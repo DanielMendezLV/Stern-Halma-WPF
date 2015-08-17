@@ -1,0 +1,134 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DamasCWpf
+</name>
+</assembly>
+<members>
+<member name="M:DamasCWpf.IngresoUsuariosWPF.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DamasCWpf.IngresoUsuariosWPF">
+	<summary>
+IngresoUsuariosWPF
+</summary>
+</member><member name="M:DamasCWpf.CUFichasBrown.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DamasCWpf.CUFichasBrown">
+	<summary>
+CUFichasBrown
+</summary>
+</member><member name="M:DamasCWpf.MainWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DamasCWpf.MainWindow">
+	<summary>
+MainWindow
+</summary>
+</member><member name="M:DamasCWpf.CUFichasYellow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DamasCWpf.CUFichasYellow">
+	<summary>
+CUFichasYellow
+</summary>
+</member><member name="M:DamasCWpf.CUFichasBlack.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DamasCWpf.CUFichasBlack">
+	<summary>
+CUFichasBlack
+</summary>
+</member><member name="M:DamasCWpf.CUFichasBlue.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DamasCWpf.CUFichasBlue">
+	<summary>
+CUFichasBlue
+</summary>
+</member><member name="M:DamasCWpf.WhatDo.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DamasCWpf.WhatDo">
+	<summary>
+WhatDo
+</summary>
+</member><member name="M:DamasCWpf.CUFichasPurple.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DamasCWpf.CUFichasPurple">
+	<summary>
+CUFichasPurple
+</summary>
+</member><member name="M:DamasCWpf.CUFichasVerdes.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:DamasCWpf.CUFichasVerdes">
+	<summary>
+CUFichasVerdes
+</summary>
+</member><member name="M:DamasCWpf.Application.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:DamasCWpf.Application.Main">
+	<summary>
+Application Entry Point.
+</summary>
+</member><member name="T:DamasCWpf.Application">
+	<summary>
+Application
+</summary>
+</member><member name="P:DamasCWpf.My.MyWpfExtension.Application">
+	<summary>
+ Devuelve el objeto de aplicación de la aplicación en ejecución
+ </summary>
+</member><member name="P:DamasCWpf.My.MyWpfExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:DamasCWpf.My.MyWpfExtension.User">
+	<summary>
+ Devuelve información sobre el usuario actual. Si desea ejecutar la aplicación con las credenciales 
+ del usuario de Windows actual, llame a My.User.InitializeWithWindowsUser().
+ </summary>
+</member><member name="P:DamasCWpf.My.MyWpfExtension.Log">
+	<summary>
+ Devuelve el registro de la aplicación. El archivo de configuración de la aplicación puede configurar los agentes de escucha.
+ </summary>
+</member><member name="P:DamasCWpf.My.MyWpfExtension.Windows">
+	<summary>
+ Devuelve la colección de Windows definida en el proyecto.
+ </summary>
+</member><member name="T:DamasCWpf.My.MyWpfExtension">
+	<summary>
+ Módulo utilizado para definir las propiedades disponibles en el espacio de nombres My de WPF
+ </summary>
+	<remarks></remarks>
+</member><member name="P:DamasCWpf.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DamasCWpf.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DamasCWpf.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

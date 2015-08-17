@@ -1,0 +1,3 @@
+Gano: COn
+Color: Purple
+Cantidad Moves: 106

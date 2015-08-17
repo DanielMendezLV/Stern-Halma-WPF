@@ -1,0 +1,192 @@
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\bin\Debug\DamasCWpf.exe.config
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\bin\Debug\DamasCWpf.exe
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\bin\Debug\DamasCWpf.pdb
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\bin\Debug\DamasCWpf.xml
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\obj\Debug\MainWindow.baml
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\obj\Debug\MainWindow.g.vb
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\obj\Debug\Application.g.vb
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\obj\Debug\DamasCWpf_MarkupCompile.cache
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\obj\Debug\DamasCWpf.g.resources
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\obj\Debug\DamasCWpf.Resources.resources
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\obj\Debug\DamasCWpf.vbproj.GenerateResource.Cache
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\obj\Debug\DamasCWpf.exe
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\obj\Debug\DamasCWpf.xml
+C:\Users\informatica\AppData\Local\Temporary Projects\DamasCWpf\obj\Debug\DamasCWpf.pdb
+E:\DamasCWpf\DamasCWpf\bin\Debug\DamasCWpf.exe.config
+E:\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf.exe
+E:\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf.xml
+E:\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf.pdb
+E:\DamasCWpf\DamasCWpf\bin\Debug\DamasCWpf.exe
+E:\DamasCWpf\DamasCWpf\bin\Debug\DamasCWpf.pdb
+E:\DamasCWpf\DamasCWpf\bin\Debug\DamasCWpf.xml
+E:\DamasCWpf\DamasCWpf\obj\Debug\MainWindow.baml
+E:\DamasCWpf\DamasCWpf\obj\Debug\MainWindow.g.vb
+E:\DamasCWpf\DamasCWpf\obj\Debug\Application.g.vb
+E:\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf_MarkupCompile.cache
+E:\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf.g.resources
+E:\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf.Resources.resources
+E:\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\bin\Debug\DamasCWpf.exe.config
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf.exe
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf.xml
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf.pdb
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\bin\Debug\DamasCWpf.exe
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\bin\Debug\DamasCWpf.pdb
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\bin\Debug\DamasCWpf.xml
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\MainWindow.g.vb
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\Application.g.vb
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf_MarkupCompile.cache
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf.g.resources
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf.Resources.resources
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\DamasCWpf.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.baml
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.g.vb
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.baml
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.g.vb
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.baml
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.g.vb
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.baml
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.g.vb
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.baml
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.g.vb
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.baml
+C:\Users\Daniel\Desktop\DamasCWpf\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.exe.config
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.exe
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.xml
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.pdb
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.exe
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.pdb
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.xml
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.baml
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.baml
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.baml
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.baml
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.baml
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.baml
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\MainWindow.baml
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\MainWindow.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Application.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf_MarkupCompile.cache
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.g.resources
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.Resources.resources
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.vbproj.GenerateResource.Cache
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\bin\Debug\DamasCWpf.exe.config
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\DamasCWpf.exe
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\DamasCWpf.xml
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\DamasCWpf.pdb
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\bin\Debug\DamasCWpf.exe
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\bin\Debug\DamasCWpf.pdb
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\bin\Debug\DamasCWpf.xml
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.baml
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.baml
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.baml
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.baml
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.baml
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.baml
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\MainWindow.baml
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\MainWindow.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\Application.g.vb
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\DamasCWpf_MarkupCompile.cache
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\DamasCWpf.g.resources
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\DamasCWpf.Resources.resources
+C:\Users\informatica\Desktop\2013061-damas-chinass\DamasCWpf\obj\Debug\DamasCWpf.vbproj.GenerateResource.Cache
+L:\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.exe.config
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.exe
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.xml
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.pdb
+L:\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.exe
+L:\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.pdb
+L:\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.xml
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.baml
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.baml
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.baml
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.baml
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.baml
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.baml
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\MainWindow.baml
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.g.vb
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.g.vb
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.g.vb
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.g.vb
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.g.vb
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.g.vb
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\MainWindow.g.vb
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\Application.g.vb
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf_MarkupCompile.cache
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.g.resources
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.Resources.resources
+L:\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.exe.config
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.exe
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.xml
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.pdb
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.baml
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.baml
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.baml
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.baml
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.baml
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.baml
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.g.vb
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.g.vb
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.g.vb
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.g.vb
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.g.vb
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.g.vb
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\MainWindow.g.vb
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\Application.g.vb
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf_MarkupCompile.cache
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.g.resources
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.Resources.resources
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.exe
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.pdb
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.xml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.exe.config
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.exe
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.xml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.pdb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.exe
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.pdb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\bin\Debug\DamasCWpf.xml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\MainWindow.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlack.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBlue.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasBrown.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasPurple.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasVerdes.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Fichas\CUFichasYellow.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\MainWindow.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\Application.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf_MarkupCompile.cache
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.g.resources
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.Resources.resources
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\DamasCWpf.vbproj.GenerateResource.Cache
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\IngresoUsuariosWPF.baml
+C:\Users\informatica\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\IngresoUsuariosWPF.g.vb
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\IngresoUsuariosWPF.baml
+C:\Users\Daniel\Desktop\2013061-damas-chinas\DamasCWpf\obj\Debug\IngresoUsuariosWPF.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\IngresoUsuariosWPF.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\IngresoUsuariosWPF.g.vb
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\WhatDo.baml
+D:\Programmer\Apps\Visual Apps\2013061-damas-chinas\DamasCWpf\obj\Debug\WhatDo.g.vb
